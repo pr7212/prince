@@ -1,0 +1,6 @@
+{
+  "name": "ProfitPilot - Restaurant Financial Intelligence",
+  "description": "Simple financial intelligence platform for small and medium restaurants in Kenya. Track sales, expenses, food costs, and profit with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
